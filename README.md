@@ -5,9 +5,8 @@ I'm a Software Engineer with a solid background in various types of software and
 ## 🛠 Skills
 - Languages: Golang, Dart, JavaScript, TypeScript, PHP
 - Frameworks/Libraries: React Native, Flutter, ReactJS
-- Tools: Docker, Kubernetes, WebAssembly, Github Actions
+- Tools: Docker, Kubernetes, WebAssembly, Github Actions, GitLab CI
 - Databases: MySQL, MongoDB, MariaDB
-- Others: SQS, SNS, RabbitMQ, Code Push, Webpack, Elasticsearch, Socket.IO
 
 ## 📦 Libraries
 - [**Flutter OpenPGP**](https://pub.dev/packages/openpgp)
@@ -32,9 +31,3 @@ I'm a Software Engineer with a solid background in various types of software and
 ## 🗣 Languages
 - Spanish: Native
 - English: B2
-
----
-![github stats](https://github-readme-stats.vercel.app/api?username=jerson&show_icons=true)
-
-
-
