@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I'm a Software Engineer with a solid background in various types of software and application development, ranging from mobile applications to backend systems. With a strong knack for embracing new technologies, I am adept at contributing to open-source projects, leveraging a diverse tech stack including Golang, React Native, Flutter, and many others. Throughout my career, I've been a part of multidisciplinary teams, contributing to the success of many projects across different domains. I thrive in collaborative environments, continuously exploring new tech gadgets and reading tech-related content to stay updated and bring innovative solutions to my work.
+I am a Software Engineer with experience in many areas like mobile apps and backend systems. I enjoy learning new technologies and contributing to open-source projects. I have worked with many teams on different projects in my career. I like working together with others, exploring new tech gadgets, and reading about tech to keep learning and bring fresh ideas to my work.
 
 ## 🛠 Skills
 - Languages: Golang, Dart, JavaScript, TypeScript, PHP
