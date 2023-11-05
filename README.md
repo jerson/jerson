@@ -33,16 +33,6 @@ I'm a Software Engineer with a solid background in various types of software and
 - Spanish: Native
 - English: B2
 
-## 📬 Get in Touch
-- GitHub: [github.com/jerson](https://github.com/jerson)
-- LinkedIn: [linkedin.com/in/gerson-pardo](https://www.linkedin.com/in/gerson-pardo)
-- GitLab: [gitlab.com/pardacho](https://gitlab.com/pardacho)
-
-## 🎮 Hobbies
-- Programming languages
-- Tech gadgets
-- Tech reading
-
 ---
 ![github stats](https://github-readme-stats.vercel.app/api?username=jerson&show_icons=true)
 
