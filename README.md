@@ -3,7 +3,7 @@
 I am a Software Engineer with experience in many areas like mobile apps and backend systems. I enjoy learning new technologies and contributing to open-source projects. I have worked with many teams on different projects in my career. I like working together with others, exploring new tech gadgets, and reading about tech to keep learning and bring fresh ideas to my work.
 
 ## 🛠 Skills
-- Languages: Golang, Dart, JavaScript, TypeScript, PHP
+- Languages: Golang, Dart, JavaScript, TypeScript
 - Frameworks/Libraries: React Native, Flutter, ReactJS
 - Tools: Docker, Kubernetes, WebAssembly, Github Actions, GitLab CI
 - Databases: MySQL, MongoDB, MariaDB
