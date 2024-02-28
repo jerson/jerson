@@ -14,12 +14,6 @@ I am a Software Engineer with experience in many areas like mobile apps and back
 - [**React Native Fast OpenPGP**](https://www.npmjs.com/package/react-native-fast-openpgp)
 - [**React Native Fast RSA**](https://www.npmjs.com/package/react-native-fast-rsa)
 
-
-## 👨‍💻 Work Experience
-- **Senior Software Engineer at Avantica / Encora (March 2018 - Present)**: Worked on various projects including payment processing backend modules and mobile banking applications.
-- **Open Source Software Engineer (August 2019 - Present)**: Contributed to open-source projects including libraries for Flutter.
-- **Full-Stack Developer at D’Austin S.A.C. (January 2009 - February 2018)**: Engaged in a variety of projects from crypto tools to music applications.
-
 ## 🗣 Languages
 - Spanish: Native
 - English: B2
